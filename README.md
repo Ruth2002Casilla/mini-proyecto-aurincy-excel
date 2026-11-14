@@ -1,5 +1,7 @@
 # Mini proyecto: Análisis de pedidos y ventas de Aurincy con Excel
 
+> **Resultado clave:** 12 de 20 pedidos entregados, equivalentes a RD$5,250 de RD$10,575 registrados.
+
 ## 📌 Descripción
 
 Proyecto práctico de análisis de datos desarrollado con Microsoft Excel, utilizando como caso de estudio a Aurincy, un emprendimiento de jabones artesanales.
