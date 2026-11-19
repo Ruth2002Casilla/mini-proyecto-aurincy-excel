@@ -1,69 +1,61 @@
-# Mini proyecto: Análisis de pedidos y ventas de Aurincy con Excel
+# Proyectos de Análisis de Datos de Aurincy | Excel
 
-> **Resultado clave:** 12 de 20 pedidos entregados, equivalentes a RD$5,250 de RD$10,575 registrados.
+Este repositorio reúne proyectos prácticos desarrollados en Microsoft Excel, utilizando como caso de estudio a **Aurincy**, un emprendimiento de jabones artesanales.
 
-## 📌 Descripción
+A través de estos proyectos se aplican herramientas de organización, transformación y análisis de datos para estudiar información comercial, interpretar indicadores y generar recomendaciones que apoyen la toma de decisiones empresariales.
 
-Proyecto práctico de análisis de datos desarrollado con Microsoft Excel, utilizando como caso de estudio a Aurincy, un emprendimiento de jabones artesanales.
+## 📂 Proyectos
 
-El objetivo es organizar y analizar información de productos y pedidos para obtener indicadores que permitan comprender el comportamiento de las ventas y apoyar decisiones comerciales.
+### 01. Semana 1 — Análisis de pedidos y ventas
 
-> **Nota:** Los datos utilizados son ficticios y fueron creados con fines educativos.
+Proyecto inicial enfocado en la organización de información comercial, aplicación de fórmulas, funciones de búsqueda y cálculos para analizar pedidos, productos e indicadores de ventas.
 
-## 🎯 Objetivos
+**Contenidos principales:**
+- Organización de datos de productos y pedidos.
+- Funciones de búsqueda y fórmulas condicionales.
+- Cálculo de importes e indicadores comerciales.
+- Análisis del estado de los pedidos.
+- Interpretación de resultados y conclusiones.
 
-- Organizar la información de productos y pedidos.
-- Consultar datos del catálogo mediante funciones de búsqueda.
-- Calcular importes y clasificar pedidos.
-- Analizar los pedidos según su estado.
-- Obtener indicadores y conclusiones comerciales.
+[Consultar proyecto de la Semana 1](semana-1/)
 
-## 🛠️ Herramientas y funciones utilizadas
+### 02. Semana 2 — Análisis comercial avanzado
 
-**Herramienta:** Microsoft Excel.
+Proyecto de análisis de datos desarrollado a partir de una base simulada de 500 registros de pedidos y 120 clientes ficticios.
 
-**Funciones:**
-- BUSCARX: búsqueda de información de productos.
-- SI: clasificación de pedidos.
-- SI.ERROR: manejo de errores.
-- PROMEDIO: cálculo del promedio por pedido.
-- CONTARA y CONTAR.SI: conteo de registros.
-- SUMAR.SI.CONJUNTO: cálculos según criterios.
+Se profundiza en el análisis del desempeño comercial, la rentabilidad de los productos, los canales de venta, el comportamiento de los clientes y los costos logísticos.
 
-## 📊 Resultados principales
+**Contenidos principales:**
+- Preparación y análisis de bases de datos.
+- Tablas dinámicas y gráficos combinados.
+- Indicadores de ventas y margen bruto.
+- Análisis de clientes, productos y canales comerciales.
+- Análisis geográfico y de costos de envío.
+- Dashboard comercial interactivo.
+- Recomendaciones estratégicas basadas en los resultados.
 
-| Indicador | Resultado |
-|---|---:|
-| Valor total de pedidos | RD$10,575 |
-| Promedio por pedido | RD$528.75 |
-| Pedidos registrados | 20 |
-| Pedidos entregados | 12 |
-| Importe de pedidos entregados | RD$5,250 |
+[Consultar proyecto de la Semana 2](semana-2/)
 
-## 📷 Visualización del proyecto
+## 🛠️ Herramienta utilizada
 
-### Resumen de resultados
+- Microsoft Excel
 
-<img width="602" height="477" alt="image" src="https://github.com/user-attachments/assets/916410c1-304a-49a1-a4ec-26d1ed45423f" />
+## 📊 Enfoque de los proyectos
 
-### Registro de pedidos
+Los proyectos buscan desarrollar habilidades para:
 
-<img width="1230" height="427" alt="image" src="https://github.com/user-attachments/assets/06f8d649-090f-47bf-9c01-8ff817bff17a" />
+- Organizar y estructurar información.
+- Analizar datos mediante fórmulas y herramientas de Excel.
+- Construir indicadores y visualizaciones.
+- Identificar patrones y oportunidades comerciales.
+- Interpretar resultados y proponer acciones de mejora.
 
+## ℹ️ Consideraciones sobre los datos
 
-## 📁 Archivos
+Los registros de pedidos y clientes utilizados en estos proyectos son ficticios y fueron creados con fines educativos. Los resultados no representan operaciones comerciales reales de Aurincy.
 
-- [Descargar archivo de Excel](Mini_Proyecto_Semana_1_Aurincy.xlsx)
-- [Consultar conclusiones](conclusiones.md)
+---
 
-## 💡 Aprendizajes
-
-Este proyecto permitió practicar la búsqueda de información, el uso de fórmulas condicionales, la agregación de datos y la interpretación de indicadores comerciales.
-
-También permitió comprender la importancia de diferenciar el valor de los pedidos registrados de los ingresos correspondientes a pedidos efectivamente entregados.
-
-## 👩‍💻 Autora
-
-Ruth Casilla
+**Autora:** Ruth Casilla
 
 [GitHub](https://github.com/Ruth2002Casilla)
