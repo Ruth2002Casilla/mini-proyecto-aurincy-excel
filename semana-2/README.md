@@ -98,7 +98,7 @@ Durante este proyecto se reforzaron habilidades relacionadas con:
 
 ## 📁 Archivo del proyecto
 
-[Descargar archivo Excel](Aurincy_Analisis_Comercial.xlsx)
+[Descargar archivo Excel](Mini_Proyecto_Semana_2_Aurincy.xlsx)
 
 ## 👩‍💻 Autora
 
