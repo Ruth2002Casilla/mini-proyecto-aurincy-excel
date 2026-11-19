@@ -45,13 +45,9 @@ El proyecto se enfoca en organizar información de productos y pedidos, aplicar 
 
 ### Resumen de resultados
 
-![Resumen de resultados]
-
 <img width="588" height="448" alt="image" src="https://github.com/user-attachments/assets/8324466c-84f8-4187-a889-0b6447b1790e" />
 
 ### Registro de Ventas
-
-![Registro de Ventas]
 
 <img width="1248" height="446" alt="image" src="https://github.com/user-attachments/assets/10e7536a-24d7-4c3c-91d0-9d9441ba503d" />
 
